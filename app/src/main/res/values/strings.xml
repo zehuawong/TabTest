@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TabTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="order">点菜</string>
+    <string name="evaluation">评价</string>
+    <string name="merchant">商家</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
